@@ -2,11 +2,11 @@
 # Chest_x_ray_Detection
 
 "Untitled.py" file is the code for training the dataset. Already a trained dataset has been attached to this repository which is "chest_xray.h5".
-</br>
+</br></br>
 If you want, again run the "Untitled.py" code to train the AI which will update the "chest_xray.h5" file with the new dataset.
-</br>
+</br></br>
 "Datasets" folder contains the the testing and validation pictures for training the program.
-</br>
+</br></br>
 "Datasets" folder also contains images which could be used for checking the program to see if the detection works.
-</br>
+</br></br>
 "chest_xray.py" is the application code for detecting a image if it is infected by pneumonia or not after training the "chest_xray.h5" file by running the "Untitled.py" code
